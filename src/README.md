@@ -47,4 +47,6 @@ java Main
 ```
 
 ## Screenshot Luaran
-![smartcity](https://github.com/user-attachments/assets/d162927c-10f3-49b0-b0c7-73cb6534a256)
+<img width="800" height="627" alt="image" src="https://github.com/user-attachments/assets/7dd9d752-6ca9-4edc-a481-ea5ee732db0e" />
+<img width="843" height="355" alt="image 2" src="https://github.com/user-attachments/assets/0d182cfb-21e8-432e-b757-2b0796b34726" />
+
