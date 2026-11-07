@@ -48,4 +48,4 @@ java Main
 
 ## Screenshot Luaran
 
-![Luaran program](C:\Users\Thinkpad 230 Maxi\Downloads\smartcity.png)
+![smartcity](https://github.com/user-attachments/assets/20ae0bc0-e4a7-4957-a9bd-f8f5a981f101)
